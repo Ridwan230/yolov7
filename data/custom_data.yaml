@@ -1,6 +1,6 @@
-train: ./data/train  
-val: ./data/val  
-
+train: ../input/clcray/train
+val: ../input/clcray/val
+test: ../input/clcray/test
 # number of classes
 nc: 12
 
