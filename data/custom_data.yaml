@@ -1,6 +1,6 @@
-train: ../input/clcray/train
-val: ../input/clcray/val
-test: ../input/clcray/test
+train: /kaggle/input/clcray/train
+val: /kaggle/input/clcray/val
+test: /kaggle/input/clcray/test
 # number of classes
 nc: 12
 
